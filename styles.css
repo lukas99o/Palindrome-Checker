@@ -26,6 +26,7 @@ main {
 }
 
 #column1 img {
+    margin-top: 200px;
     height: 200px;
     mix-blend-mode: multiply;
     margin-bottom: 0px;
@@ -79,4 +80,9 @@ button:hover {
 
 #column4 p {
     text-align: center;
+}
+
+.user-input {
+    margin-top: 25px;
+    font-size: large;
 }
